@@ -1,7 +1,4 @@
 /*  Name: Angela Yu
-*  PennKey: yuangel
-*  Recitation: 206
-*
 *  Execution: java IrateAvians [filename]
 *
 *  Represents the Irate Avians game. Takes a level
