@@ -1,6 +1,4 @@
 /*  Name: Angela Yu
-*  PennKey: yuangel
-*  Recitation: 206
 *  Execution: N/A (no main method)
 *
 *  A class that represents the bird projectile in
