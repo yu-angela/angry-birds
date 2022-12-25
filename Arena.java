@@ -1,6 +1,4 @@
 /*  Name: Angela Yu
-*  PennKey: yuangel
-*  Recitation: 206
 *
 *  A class representing the arena in which the Irate Avians
 *  game takes place. Keeps track of the game's Bird and
